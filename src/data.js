@@ -1,0 +1,2 @@
+export const business = {"phone":"071 000 1699","location":"Dobsonville, Soweto","palette":["#4a3043","#d7a7bd","#f8eff3"],"sub":"A polished digital concept for nails and beauty in Dobsonville.","archetype":"Beauty editorial","title":"Details that feel like you.","industry":"Nails, beauty","photo":"https://images.unsplash.com/photo-1604654894610-df63bc536371?auto=format&fit=crop&w=1800&q=85","email":"","name":"Mmabs Nails and Beauty Salon"};
+
